@@ -2,24 +2,23 @@
 
 ```text
 ================================================================================
-  AliOS v2.5 [SYSTEM CONSOLE]
-  USER: Syed Mohammad Ali (@mohammadali0820)
-  ROLE: SWE @ Accenture | AI Agent Architect | Spring Boot Specialist
+  SYED MOHAMMAD ALI
+  Software Engineer @ Accenture | AI Agent Architect | Spring Boot Specialist
 ================================================================================
 ```
 
-<!-- Primary System Actions -->
+<!-- Primary Links -->
 <a href="https://syedmohammadali-portfolio.pages.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/LAUNCH_3D_PORTFOLIO-AliOS_v2.5-ffd700?style=for-the-badge&logo=three.js&logoColor=black&labelColor=1a1a1a" height="38" alt="Launch 3D Portfolio"/>
+  <img src="https://img.shields.io/badge/3D_PORTFOLIO-LIVE_DEMO-ffd700?style=for-the-badge&logo=three.js&logoColor=black&labelColor=1a1a1a" height="38" alt="3D Portfolio"/>
 </a>
 &nbsp;
 <a href="https://syedmohammadali-portfolio.pages.dev/resume.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/VIEW_RESUME-PDF-00e5ff?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=1a1a1a" height="38" alt="View Resume PDF"/>
+  <img src="https://img.shields.io/badge/RESUME-PDF-00e5ff?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=1a1a1a" height="38" alt="Resume PDF"/>
 </a>
 
 <br/><br/>
 
-<!-- Network Connectivity -->
+<!-- Social Media & Connect -->
 <a href="https://linkedin.com/in/mohammadali0820" target="_blank" title="LinkedIn">
   <img src="https://skillicons.dev/icons?i=linkedin" width="44" height="44" alt="LinkedIn" />
 </a>
@@ -48,33 +47,25 @@
 
 <br/>
 
-### `C:\AliOS\PROJECTS\`
+### Projects
 
-| ID | Project Name & Overview | Deployment / Demo | Repository | Architecture Stack |
+| # | Project | Live Demo | Repository | Stack |
 | :---: | :--- | :---: | :---: | :--- |
-| **01** | **AliOS 3D Portfolio**<br><sub>Interactive retro 3D WebGL room and virtual desktop environment with Harry Potter broom animation and floating candles</sub> | [**Launch System**](https://syedmohammadali-portfolio.pages.dev/) | [**Source Code**](https://github.com/mohammadali-2000/portfolio-website) | `Three.js` `TypeScript` `WebGL` `Cloudflare Pages` |
-| **02** | **Aegis MCP Registry**<br><sub>Dynamic Model Context Protocol (MCP) server registry and execution interface for autonomous AI agents</sub> | [**Live Application**](https://aegis-mcp-registry.vercel.app/) | [**Source Code**](https://github.com/mohammadali-2000/aegis-mcp-registry) | `TypeScript` `MCP` `Next.js` `Tailwind CSS` |
-| **03** | **Enterprise AI Knowledge Hub**<br><sub>Production RAG pipeline and automated vector search context retrieval engine</sub> | [**Documentation**](https://github.com/mohammadali-2000/Enterprise-AI-Knowledge-Hub#readme) | [**Source Code**](https://github.com/mohammadali-2000/Enterprise-AI-Knowledge-Hub) | `Spring Boot` `Java` `LangChain` `Redis` |
-| **04** | **ZeroTrust Health**<br><sub>Encrypted medical AI inference platform built with Fully Homomorphic Encryption (FHE)</sub> | [**System Overview**](https://github.com/mohammadali-2000/ZeroTrust-Health#readme) | [**Source Code**](https://github.com/mohammadali-2000/ZeroTrust-Health) | `Python` `TenSEAL` `Streamlit` `FHE` |
-| **05** | **Multi-Agent Medical Assistant**<br><sub>Autonomous agent network coordinating clinical tasks and diagnostic workflows</sub> | [**System Overview**](https://github.com/mohammadali-2000/multi-agent-medical-assistant-masumi#readme) | [**Source Code**](https://github.com/mohammadali-2000/multi-agent-medical-assistant-masumi) | `Python` `Masumi Agent Network` |
-| **06** | **AI Travel Planner**<br><sub>Automated travel itinerary generator and scheduling system</sub> | [**System Overview**](https://github.com/mohammadali-2000/Ai_travel#readme) | [**Source Code**](https://github.com/mohammadali-2000/Ai_travel) | `Next.js` `TypeScript` `AI SDK` |
+| **01** | **3D Interactive Portfolio**<br><sub>Interactive retro 3D WebGL room and virtual desktop environment with Harry Potter broom animation and floating candles</sub> | [**Live Demo**](https://syedmohammadali-portfolio.pages.dev/) | [**Code**](https://github.com/mohammadali-2000/portfolio-website) | `Three.js` `TypeScript` `WebGL` `Cloudflare Pages` |
+| **02** | **Aegis MCP Registry**<br><sub>Dynamic Model Context Protocol (MCP) server registry and execution interface for autonomous AI agents</sub> | [**Live App**](https://aegis-mcp-registry.vercel.app/) | [**Code**](https://github.com/mohammadali-2000/aegis-mcp-registry) | `TypeScript` `MCP` `Next.js` `Tailwind CSS` |
+| **03** | **Enterprise AI Knowledge Hub**<br><sub>Production RAG pipeline and automated vector search context retrieval engine</sub> | [**Docs**](https://github.com/mohammadali-2000/Enterprise-AI-Knowledge-Hub#readme) | [**Code**](https://github.com/mohammadali-2000/Enterprise-AI-Knowledge-Hub) | `Spring Boot` `Java` `LangChain` `Redis` |
+| **04** | **ZeroTrust Health**<br><sub>Encrypted medical AI inference platform built with Fully Homomorphic Encryption (FHE)</sub> | [**Docs**](https://github.com/mohammadali-2000/ZeroTrust-Health#readme) | [**Code**](https://github.com/mohammadali-2000/ZeroTrust-Health) | `Python` `TenSEAL` `Streamlit` `FHE` |
+| **05** | **Multi-Agent Medical Assistant**<br><sub>Autonomous agent network coordinating clinical tasks and diagnostic workflows</sub> | [**Docs**](https://github.com/mohammadali-2000/multi-agent-medical-assistant-masumi#readme) | [**Code**](https://github.com/mohammadali-2000/multi-agent-medical-assistant-masumi) | `Python` `Masumi Agent Network` |
+| **06** | **AI Travel Planner**<br><sub>Automated travel itinerary generator and scheduling system</sub> | [**Docs**](https://github.com/mohammadali-2000/Ai_travel#readme) | [**Code**](https://github.com/mohammadali-2000/Ai_travel) | `Next.js` `TypeScript` `AI SDK` |
 
 <br/>
 
 <div align="center">
 
 ```text
-[ C:\AliOS\SYSTEM\TECH_STACK.SYS ]
+================================== TECH STACK ==================================
 ```
 
 <img src="https://skillicons.dev/icons?i=java,spring,ts,js,py,threejs,react,nextjs,docker,postgres,mysql,redis,git,linux" alt="Technical Stack" />
-
-<br/><br/>
-
-```text
-================================================================================
-  STATUS: READY. SELECT A MODULE ABOVE OR CONNECT VIA EXTERNAL PROTOCOLS.
-================================================================================
-```
 
 </div>
