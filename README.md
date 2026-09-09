@@ -1,117 +1,77 @@
 <div align="center">
 
 ```text
-  ___  _ _  ____  ____    __  __  ____  _   _    _   __  __ __  __    _    ____    _   _   _     ___ 
- / _ \| (_)/ ___|/ ___|  |  \/  |/ _  \| | | |  / \ |  \/  |  \/  |  / \  |  _ \  / \ | | | |   |_ _|
-| | | | | |\___ \\___ \  | |\/| | | | | |_| | / _ \| |\/| | |\/| | / _ \ | | | |/ _ \| | | |    | | 
-| |_| | | | ___) |___) | | |  | | |_| |  _  |/ ___ \ |  | | |  | |/ ___ \| |_| / ___ \ |_| |___ | | 
- \__\_|_|_||____/|____/  |_|  |_|\___/|_| |_/_/   \_\_|  |_|_|  |_/_/   \_\____/_/   \_\___|_____|___|
+ ╔══════════════════════════════════════════════════════════════════════════════╗
+ ║  AliOS v2.5 [CRT TERMINAL] :: SYED MOHAMMAD ALI                              ║
+ ║  SWE @ Accenture | AI Agent Architect | Spring Boot | 3D WebGL Enthusiast   ║
+ ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-### 🖥️ AliOS v2.5 Terminal :: Syed Mohammad Ali (@mohammadali0820)
-*SWE @ Accenture | AI Agent Architect | Spring Boot Specialist | Claude Certified Architect*
+<!-- Primary Interactive CTAs -->
+<a href="https://syedmohammadali-portfolio.pages.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/▶_LAUNCH_3D_PORTFOLIO-AliOS_v2.5-ffd700?style=for-the-badge&logo=three.js&logoColor=black&labelColor=111111" height="38" alt="Launch 3D Portfolio"/>
+</a>
+&nbsp;
+<a href="https://syedmohammadali-portfolio.pages.dev/resume.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/📄_VIEW_RESUME-PDF-00e5ff?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=111111" height="38" alt="View Resume PDF"/>
+</a>
 
-[![Live 3D Portfolio](https://img.shields.io/badge/🌐_3D_Portfolio-AliOS_v2.5-ffd700?style=for-the-badge&logo=three.js&logoColor=black)](https://syedmohammadali-portfolio.pages.dev/)
-[![Resume PDF](https://img.shields.io/badge/📄_Download-Resume_PDF-0070f3?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://syedmohammadali-portfolio.pages.dev/resume.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammadali0820)
-[![X / Twitter](https://img.shields.io/badge/X_Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mohammadali0820)
+<br/><br/>
+
+<!-- Extraordinary High-Definition SkillIcons Social Bar -->
+<a href="https://linkedin.com/in/mohammadali0820" target="_blank" title="LinkedIn">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="46" height="46" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/mohammadali0820" target="_blank" title="X / Twitter">
+  <img src="https://skillicons.dev/icons?i=twitter" width="46" height="46" alt="X / Twitter" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://youtube.com/@mohammadali0820" target="_blank" title="YouTube">
+  <img src="https://skillicons.dev/icons?i=youtube" width="46" height="46" alt="YouTube" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/mohammadali0820" target="_blank" title="Instagram">
+  <img src="https://skillicons.dev/icons?i=instagram" width="46" height="46" alt="Instagram" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:sm9009995710@gmail.com" target="_blank" title="Email">
+  <img src="https://skillicons.dev/icons?i=gmail" width="46" height="46" alt="Email" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/mohammadali-2000" target="_blank" title="GitHub">
+  <img src="https://skillicons.dev/icons?i=github" width="46" height="46" alt="GitHub" />
+</a>
 
 </div>
 
-<hr />
+<br/>
 
-### 🕹️ `C:\AliOS\SYSTEM\ABOUT_ME.TXT`
+### 🕹️ `C:\AliOS\PROJECTS\`
 
-```text
-[STATUS] :: ONLINE
-[LOCATION] :: Hyderabad, India (UTC +05:30)
-[ROLE] :: Software Engineer @ Accenture
-[SPECIALIZATION] :: Multi-Agent Systems, Model Context Protocol (MCP), Enterprise Java
-```
+| # | Project | Live Preview / App | Source Code | Stack |
+| :---: | :--- | :---: | :---: | :--- |
+| **01** | **🕹️ AliOS 3D Portfolio**<br><sub>Retro 3D WebGL room & Windows 95 desktop with Harry Potter broom animation & floating candles</sub> | [**🌐 Launch Live**](https://syedmohammadali-portfolio.pages.dev/) | [**📂 GitHub**](https://github.com/mohammadali-2000/portfolio-website) | `Three.js` `TypeScript` `WebGL` `Cloudflare` |
+| **02** | **🔌 Aegis MCP Registry**<br><sub>Dynamic Model Context Protocol (MCP) server registry & tool interface for autonomous AI agents</sub> | [**⚡ Live App**](https://aegis-mcp-registry.vercel.app/) | [**📂 GitHub**](https://github.com/mohammadali-2000/aegis-mcp-registry) | `TypeScript` `MCP` `Next.js` `Tailwind` |
+| **03** | **🧠 Enterprise AI Knowledge Hub**<br><sub>Production RAG pipeline & automated vector search context retrieval engine</sub> | [**📖 Docs & Architecture**](https://github.com/mohammadali-2000/Enterprise-AI-Knowledge-Hub#readme) | [**📂 GitHub**](https://github.com/mohammadali-2000/Enterprise-AI-Knowledge-Hub) | `Spring Boot` `Java` `LangChain` `Redis` |
+| **04** | **🔐 ZeroTrust Health**<br><sub>Encrypted medical AI inference platform using Fully Homomorphic Encryption (FHE)</sub> | [**🔒 Encrypted Demo**](https://github.com/mohammadali-2000/ZeroTrust-Health#readme) | [**📂 GitHub**](https://github.com/mohammadali-2000/ZeroTrust-Health) | `Python` `TenSEAL` `Streamlit` `FHE` |
+| **05** | **🏥 Multi-Agent Medical Assistant**<br><sub>Autonomous agent network coordinating complex clinical tasks and workflows</sub> | [**🤖 Agent Overview**](https://github.com/mohammadali-2000/multi-agent-medical-assistant-masumi#readme) | [**📂 GitHub**](https://github.com/mohammadali-2000/multi-agent-medical-assistant-masumi) | `Python` `Masumi Agent Network` |
+| **06** | **✈️ AI Travel Planner**<br><sub>AI-powered itinerary generation and trip planning engine</sub> | [**🌍 App Overview**](https://github.com/mohammadali-2000/Ai_travel#readme) | [**📂 GitHub**](https://github.com/mohammadali-2000/Ai_travel) | `Next.js` `TypeScript` `AI SDK` |
 
-Hello! I am **Syed Mohammad Ali**, a Software Engineer at Accenture specializing in autonomous AI agent architecture, Model Context Protocol (MCP), and enterprise Spring Boot microservices. 
-
-* 🤖 **AI Agents & MCP**: Designing autonomous multi-agent networks, dynamic MCP tool registries, memory stores, and vector RAG pipelines.
-* ☕ **Enterprise Backend**: Building production microservices using Java, Spring Boot, Docker, and PostgreSQL.
-* 📜 **Certified Expertise**: 4 Anthropic Claude Certifications (Claude Certified Architect) and 31 industry certifications.
-* 🌐 **3D Web & Interactive Systems**: Creator of **AliOS**, a retro 3D room running a Windows 95 desktop environment in WebGL (Three.js).
-
----
-
-### 💼 `C:\AliOS\SYSTEM\WORK_EXPERIENCE.EXE`
-
-* **Accenture** — *Software Engineer*
-  * **Duration:** Nov 2025 – Present
-  * **Focus:** Enterprise microservices, Spring Boot, AI Agent system integration, high-scale backend services.
-
-* **MPSDEC** — *Software Engineer*
-  * **Duration:** Apr 2025 – Oct 2025
-  * **Focus:** Java backend engineering, system performance optimization, API development.
-
-* **A2Infotech Pvt Ltd** — *Software Developer (Interop)*
-  * **Duration:** Jun 2021 – Jun 2024
-  * **Focus:** Interoperability solutions, enterprise software development, data pipeline integrations.
-
-* **DRMZ** — *Software Development Intern*
-  * **Duration:** Aug 2021 – Dec 2021
-  * **Focus:** Full-stack web application development and database management.
-
----
-
-### 🎓 `C:\AliOS\SYSTEM\EDUCATION_&_CERTS.SYS`
-
-* 🎓 **Bachelor of Technology (B.Tech) — Computer Science**
-  * *Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV), Bhopal* | Sep 2021 – Jul 2024
-  * **Grade:** 76.70 %
-* 📜 **Diploma of Education — Electrical & Electronics Engineering**
-  * *Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV), Bhopal* | Aug 2018 – Aug 2021
-  * **Grade:** 70.60 %
-* 🏆 **Anthropic Claude Certifications**
-  * Cleared 4 Anthropic Claude Certifications in 30 days (Claude Certified Architect).
-
----
-
-### 🚀 `C:\AliOS\SYSTEM\FEATURED_PROJECTS.BAT`
-
-| Project | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| 🕹️ **AliOS 3D Portfolio** | Interactive retro 3D WebGL room & Windows 95 CRT desktop with Harry Potter broom animation & floating candles | `Three.js`, `TypeScript`, `WebGL`, `Cloudflare` | [Repo](https://github.com/mohammadali-2000/portfolio-website) • [Live Demo](https://syedmohammadali-portfolio.pages.dev/) |
-| 🧠 **Enterprise AI Knowledge Hub** | Production RAG pipeline & automated vector search context retrieval engine | `Spring Boot`, `Java`, `LangChain`, `Redis` | [Repo](https://github.com/mohammadali-2000/Enterprise-AI-Knowledge-Hub) |
-| 🔌 **Aegis MCP Registry** | Dynamic Model Context Protocol (MCP) server registry & tool runner for AI agents | `TypeScript`, `MCP`, `Next.js`, `Tailwind` | [Repo](https://github.com/mohammadali-2000/aegis-mcp-registry) • [Live App](https://aegis-mcp-registry.vercel.app/) |
-| 🔐 **ZeroTrust Health** | Encrypted medical AI inference platform using Fully Homomorphic Encryption (FHE) | `Python`, `TenSEAL`, `Streamlit`, `FHE` | [Repo](https://github.com/mohammadali-2000/ZeroTrust-Health) |
-| 🏥 **Multi-Agent Medical Assistant** | Autonomous agent network coordinating clinical tasks and workflows | `Python`, `Masumi Agent Network` | [Repo](https://github.com/mohammadali-2000/multi-agent-medical-assistant-masumi) |
-
----
-
-### 🛠️ `C:\AliOS\SYSTEM\TECH_STACK.DLL`
-
-```text
-+-------------------------------------------------------------------------+
-| LANGUAGES  :: Java, TypeScript, JavaScript, Python, SQL                  |
-| BACKEND    :: Spring Boot, Spring Security, REST APIs, Microservices, Node|
-| AI & AGENTS:: Claude API, Anthropic SDK, MCP, Tool Calling, LangChain   |
-| DATABASES  :: PostgreSQL, MySQL, Redis, Vector DBs                       |
-| DEVOPS/3D  :: Docker, Three.js, WebGL, Cloudflare Pages, Git, Linux       |
-+-------------------------------------------------------------------------+
-```
-
----
-
-### 🌐 `C:\AliOS\SYSTEM\CONNECT.LOG`
-
-```text
-CONNECT /USER:mohammadali-2000 /PROTOCOL:HTTPS
-```
-
-* 🌐 **Interactive 3D Portfolio:** [syedmohammadali-portfolio.pages.dev](https://syedmohammadali-portfolio.pages.dev/)
-* 💼 **LinkedIn:** [linkedin.com/in/mohammadali0820](https://linkedin.com/in/mohammadali0820)
-* 🐦 **X (Twitter):** [@mohammadali0820](https://x.com/mohammadali0820)
-* 📺 **YouTube:** [@mohammadali0820](https://youtube.com/@mohammadali0820)
-* 📸 **Instagram:** [@mohammadali0820](https://instagram.com/mohammadali0820)
-* ✉️ **Email:** [sm9009995710@gmail.com](mailto:sm9009995710@gmail.com)
-
-<hr />
+<br/>
 
 <div align="center">
-<sub>Executed on AliOS v2.5 Kernel • Powered by Three.js & Spring Boot</sub>
+
+```text
+[ C:\AliOS\SYSTEM\TECH_STACK.DLL ]
+```
+
+<img src="https://skillicons.dev/icons?i=java,spring,ts,js,py,threejs,react,nextjs,docker,postgres,mysql,redis,git,linux" alt="Tech Stack" />
+
+<br/><br/>
+
+```text
+======================= [ SYSTEM READY: CONNECT VIA LINKS ABOVE ] =======================
+```
+
 </div>
