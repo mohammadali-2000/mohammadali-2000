@@ -1,4 +1,4 @@
-# Hey, I'm Syed Mohammad Ali 👋
+# Hi I Am Syed Mohammad Ali 
 
 ### Software Engineer @ Accenture | AI Agent Architect | Spring Boot Specialist
 **Claude Certified Architect (Anthropic)** with 31 professional certifications. Building autonomous AI systems, enterprise backends, and privacy-preserving tools.
