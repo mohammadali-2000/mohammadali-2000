@@ -9,47 +9,15 @@
 <!-- 90s CRT Terminal Typing Animation (VT323 Monospace) -->
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&pause=1000&color=00FF66&center=true&vCenter=true&width=620&lines=%3E+SWE+%40+Accenture;%3E+AI+Agent+Architect;%3E+Spring+Boot+Specialist;%3E+Interactive+3D+WebGL+Developer" alt="Terminal Typing" />
 
-<br/>
+<br/><br/>
 
-<!-- System Actions & 90s Visitor Counter -->
-<a href="https://syedmohammadali-portfolio.pages.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/3D_PORTFOLIO-LIVE_DEMO-ffd700?style=flat-square&logo=three.js&logoColor=black&labelColor=1a1a1a" height="28" alt="3D Portfolio"/>
-</a>
-&nbsp;
-<a href="https://syedmohammadali-portfolio.pages.dev/resume.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/RESUME-PDF-00e5ff?style=flat-square&logo=adobeacrobatreader&logoColor=white&labelColor=1a1a1a" height="28" alt="Resume PDF"/>
-</a>
-&nbsp;
-<a href="https://github.com/mohammadali-2000" target="_blank">
-  <img src="https://komarev.com/ghpvc/?username=mohammadali-2000&style=flat-square&color=00ff66&label=SYSTEM_VISITS" height="28" alt="System Visits"/>
-</a>
+<!-- Primary Action Buttons (Rounded Glassmorphic Capsule Style) -->
+<a href="https://syedmohammadali-portfolio.pages.dev/" target="_blank"><img src="https://img.shields.io/badge/3D_PORTFOLIO-LIVE_DEMO-ffd700?style=for-the-badge&logo=three.js&logoColor=black&labelColor=1a1a1a" height="34" alt="3D Portfolio"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://syedmohammadali-portfolio.pages.dev/resume.pdf" target="_blank"><img src="https://img.shields.io/badge/RESUME-VIEW_PDF-00e5ff?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=1a1a1a" height="34" alt="Resume PDF"/></a>
 
 <br/><br/>
 
-<!-- Social Media Icons (SkillIcons Set) -->
-<a href="https://linkedin.com/in/mohammadali0820" target="_blank" title="LinkedIn">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="42" height="42" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://x.com/mohammadali0820" target="_blank" title="X / Twitter">
-  <img src="https://skillicons.dev/icons?i=twitter" width="42" height="42" alt="X / Twitter" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://youtube.com/@mohammadali0820" target="_blank" title="YouTube">
-  <img src="https://skillicons.dev/icons?i=youtube" width="42" height="42" alt="YouTube" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/mohammadali0820" target="_blank" title="Instagram">
-  <img src="https://skillicons.dev/icons?i=instagram" width="42" height="42" alt="Instagram" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:sm9009995710@gmail.com" target="_blank" title="Email">
-  <img src="https://skillicons.dev/icons?i=gmail" width="42" height="42" alt="Email" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/mohammadali-2000" target="_blank" title="GitHub">
-  <img src="https://skillicons.dev/icons?i=github" width="42" height="42" alt="GitHub" />
-</a>
+<!-- Social Media Icons (Unified Rounded Set) -->
+<a href="https://linkedin.com/in/mohammadali0820" target="_blank" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" width="42" height="42" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://x.com/mohammadali0820" target="_blank" title="X / Twitter"><img src="https://skillicons.dev/icons?i=twitter" width="42" height="42" alt="X / Twitter" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://youtube.com/@mohammadali0820" target="_blank" title="YouTube"><img src="https://api.iconify.design/fa6-brands:square-youtube.svg?color=%23FF0000" width="42" height="42" alt="YouTube" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/mohammadali0820" target="_blank" title="Instagram"><img src="https://skillicons.dev/icons?i=instagram" width="42" height="42" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:sm9009995710@gmail.com" target="_blank" title="Email"><img src="https://skillicons.dev/icons?i=gmail" width="42" height="42" alt="Email" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/mohammadali-2000" target="_blank" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="42" height="42" alt="GitHub" /></a>
 
 </div>
 
@@ -86,6 +54,10 @@ LOCATION  : Hyderabad, India (UTC +05:30)
 ```
 
 <img src="https://skillicons.dev/icons?i=java,spring,ts,js,py,threejs,react,nextjs,docker,postgres,mysql,redis,git,linux" alt="Technical Stack" />
+
+<br/><br/>
+
+<a href="https://github.com/mohammadali-2000" target="_blank"><img src="https://komarev.com/ghpvc/?username=mohammadali-2000&style=flat-square&color=00ff66&label=SYSTEM_VISITS" height="22" alt="System Visits"/></a>
 
 <br/><br/>
 
