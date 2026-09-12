@@ -12,7 +12,7 @@
 <br/><br/>
 
 <!-- Primary Action Buttons (Rounded Glassmorphic Capsule Style) -->
-<a href="https://syedmohammadali-portfolio.pages.dev/" target="_blank"><img src="https://img.shields.io/badge/3D_PORTFOLIO-LIVE_DEMO-ffd700?style=for-the-badge&logo=three.js&logoColor=black&labelColor=1a1a1a" height="34" alt="3D Portfolio"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://syedmohammadali-portfolio.pages.dev/resume.pdf" target="_blank"><img src="https://img.shields.io/badge/RESUME-VIEW_PDF-00e5ff?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=1a1a1a" height="34" alt="Resume PDF"/></a>
+<a href="https://syedmohammadali-portfolio.pages.dev/" target="_blank"><img src="https://img.shields.io/badge/3D_PORTFOLIO-LIVE_DEMO-ffd700?style=for-the-badge&logo=three.js&logoColor=black&labelColor=1a1a1a" height="34" alt="Portfolio"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://syedmohammadali-portfolio.pages.dev/resume.pdf" target="_blank"><img src="https://img.shields.io/badge/RESUME-VIEW_PDF-00e5ff?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=1a1a1a" height="34" alt="Resume PDF"/></a>
 
 <br/><br/>
 
