@@ -36,7 +36,7 @@ LOCATION  : Hyderabad, India (UTC +05:30)
 
 ### Projects
 
-| # | Project | Live Demo | Repository | Architecture Stack |
+| # | Project | Deploy Link | Repository | Architecture Stack |
 | :---: | :--- | :---: | :---: | :--- |
 | **01** | **GhostWorker AI**<br><sub>Autonomous workplace digital twins living in Slack, GitHub & team memory with verified citations and real-time neural grounding (OpenAI Hackathon)</sub> | [**Live App**](https://carb-rebel-met-topics.trycloudflare.com) | [**Code**](https://github.com/mohammadali-2000/ghostworker-ai) | `Next.js 16` `OpenAI GPT-4o` `Whisper` `Exa AI` `TypeScript` |
 | **02** | **Portfolio**<br><sub>Interactive personal portfolio showcasing projects and engineering capabilities</sub> | [**Live App**](https://syedmohammadali-portfolio.pages.dev/) | [**Code**](https://github.com/mohammadali-2000/portfolio-website) | `Three.js` `TypeScript` `WebGL` `Cloudflare Pages` |
