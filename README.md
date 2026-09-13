@@ -12,7 +12,7 @@
 <br/><br/>
 
 <!-- Primary Action Buttons (Rounded Glassmorphic Capsule Style) -->
-<a href="https://syedmohammadali-portfolio.pages.dev/" target="_blank"><img src="https://img.shields.io/badge/3D_PORTFOLIO-LIVE_DEMO-ffd700?style=for-the-badge&logo=three.js&logoColor=black&labelColor=1a1a1a" height="34" alt="Portfolio"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://syedmohammadali-portfolio.pages.dev/resume.pdf" target="_blank"><img src="https://img.shields.io/badge/RESUME-VIEW_PDF-00e5ff?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=1a1a1a" height="34" alt="Resume PDF"/></a>
+<a href="https://syedmohammadali-portfolio.pages.dev/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-ffd700?style=for-the-badge&logo=three.js&logoColor=black&labelColor=1a1a1a" height="34" alt="Portfolio"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://syedmohammadali-portfolio.pages.dev/resume.pdf" target="_blank"><img src="https://img.shields.io/badge/RESUME-VIEW_PDF-00e5ff?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=1a1a1a" height="34" alt="Resume PDF"/></a>
 
 <br/><br/>
 
@@ -39,7 +39,7 @@ LOCATION  : Hyderabad, India (UTC +05:30)
 | # | Project | Live Demo | Repository | Architecture Stack |
 | :---: | :--- | :---: | :---: | :--- |
 | **01** | **GhostWorker AI**<br><sub>Autonomous workplace digital twins living in Slack, GitHub & team memory with verified citations and real-time neural grounding (OpenAI Hackathon)</sub> | [**Live App**](https://carb-rebel-met-topics.trycloudflare.com) | [**Code**](https://github.com/mohammadali-2000/ghostworker-ai) | `Next.js 16` `OpenAI GPT-4o` `Whisper` `Exa AI` `TypeScript` |
-| **02** | **3D Interactive Portfolio**<br><sub>Interactive retro 3D WebGL room and virtual desktop environment with Harry Potter broom animation and floating candles</sub> | [**Live Demo**](https://syedmohammadali-portfolio.pages.dev/) | [**Code**](https://github.com/mohammadali-2000/portfolio-website) | `Three.js` `TypeScript` `WebGL` `Cloudflare Pages` |
+| **02** | **Portfolio**<br><sub>Interactive personal portfolio showcasing projects and engineering capabilities</sub> | [**Live App**](https://syedmohammadali-portfolio.pages.dev/) | [**Code**](https://github.com/mohammadali-2000/portfolio-website) | `Three.js` `TypeScript` `WebGL` `Cloudflare Pages` |
 | **03** | **Aegis MCP Registry**<br><sub>Dynamic Model Context Protocol (MCP) server registry and execution interface for autonomous AI agents</sub> | [**Live App**](https://aegis-mcp-registry.vercel.app/) | [**Code**](https://github.com/mohammadali-2000/aegis-mcp-registry) | `TypeScript` `MCP` `Next.js` `Tailwind CSS` |
 | **04** | **Enterprise AI Knowledge Hub**<br><sub>Production RAG pipeline and automated vector search context retrieval engine</sub> | [**Docs**](https://github.com/mohammadali-2000/Enterprise-AI-Knowledge-Hub#readme) | [**Code**](https://github.com/mohammadali-2000/Enterprise-AI-Knowledge-Hub) | `Spring Boot` `Java` `LangChain` `Redis` |
 | **05** | **ZeroTrust Health**<br><sub>Encrypted medical AI inference platform built with Fully Homomorphic Encryption (FHE)</sub> | [**Docs**](https://github.com/mohammadali-2000/ZeroTrust-Health#readme) | [**Code**](https://github.com/mohammadali-2000/ZeroTrust-Health) | `Python` `TenSEAL` `Streamlit` `FHE` |
