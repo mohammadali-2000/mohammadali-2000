@@ -7,7 +7,7 @@
 ```
 
 <!-- 90s CRT Terminal Typing Animation (VT323 Monospace) -->
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&pause=1000&color=00FF66&center=true&vCenter=true&width=620&lines=%3E+SWE+%40+Accenture;%3E+AI+Agent+Architect;%3E+Spring+Boot+Specialist;%3E+Interactive+3D+WebGL+Developer" alt="Terminal Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&pause=1000&color=00FF66&center=true&vCenter=true&width=620&lines=%3E+SWE+%40+Accenture;%3E+AI+Agent+Architect;%3E+Creator+of+GhostWorker+AI;%3E+Interactive+3D+WebGL+Developer" alt="Terminal Typing" />
 
 <br/><br/>
 
@@ -27,9 +27,9 @@
 user@workstation:~$ neofetch
 --------------------------------------------------------------------------------
 USER      : Syed Mohammad Ali (@mohammadali0820)
-ROLE      : Software Engineer @ Accenture
-CORE      : Autonomous AI Agents, MCP Tool Calling, Enterprise Microservices
-PLATFORMS : Java Virtual Machine (JVM), Node.js, WebGL (Three.js), Linux
+ROLE      : Software Engineer @ Accenture | AI Agent Architect
+CORE      : Autonomous Workplace Digital Twins, Multi-Agent Systems, MCP, Microservices
+PLATFORMS : Next.js, Node.js, Java (JVM), WebGL (Three.js), Linux
 LOCATION  : Hyderabad, India (UTC +05:30)
 --------------------------------------------------------------------------------
 ```
@@ -38,12 +38,13 @@ LOCATION  : Hyderabad, India (UTC +05:30)
 
 | # | Project | Live Demo | Repository | Architecture Stack |
 | :---: | :--- | :---: | :---: | :--- |
-| **01** | **3D Interactive Portfolio**<br><sub>Interactive retro 3D WebGL room and virtual desktop environment with Harry Potter broom animation and floating candles</sub> | [**Live Demo**](https://syedmohammadali-portfolio.pages.dev/) | [**Code**](https://github.com/mohammadali-2000/portfolio-website) | `Three.js` `TypeScript` `WebGL` `Cloudflare Pages` |
-| **02** | **Aegis MCP Registry**<br><sub>Dynamic Model Context Protocol (MCP) server registry and execution interface for autonomous AI agents</sub> | [**Live App**](https://aegis-mcp-registry.vercel.app/) | [**Code**](https://github.com/mohammadali-2000/aegis-mcp-registry) | `TypeScript` `MCP` `Next.js` `Tailwind CSS` |
-| **03** | **Enterprise AI Knowledge Hub**<br><sub>Production RAG pipeline and automated vector search context retrieval engine</sub> | [**Docs**](https://github.com/mohammadali-2000/Enterprise-AI-Knowledge-Hub#readme) | [**Code**](https://github.com/mohammadali-2000/Enterprise-AI-Knowledge-Hub) | `Spring Boot` `Java` `LangChain` `Redis` |
-| **04** | **ZeroTrust Health**<br><sub>Encrypted medical AI inference platform built with Fully Homomorphic Encryption (FHE)</sub> | [**Docs**](https://github.com/mohammadali-2000/ZeroTrust-Health#readme) | [**Code**](https://github.com/mohammadali-2000/ZeroTrust-Health) | `Python` `TenSEAL` `Streamlit` `FHE` |
-| **05** | **Multi-Agent Medical Assistant**<br><sub>Autonomous agent network coordinating clinical tasks and diagnostic workflows</sub> | [**Docs**](https://github.com/mohammadali-2000/multi-agent-medical-assistant-masumi#readme) | [**Code**](https://github.com/mohammadali-2000/multi-agent-medical-assistant-masumi) | `Python` `Masumi Agent Network` |
-| **06** | **AI Travel Planner**<br><sub>Automated travel itinerary generator and scheduling system</sub> | [**Docs**](https://github.com/mohammadali-2000/Ai_travel#readme) | [**Code**](https://github.com/mohammadali-2000/Ai_travel) | `Next.js` `TypeScript` `AI SDK` |
+| **01** | **GhostWorker AI**<br><sub>Autonomous workplace digital twins living in Slack, GitHub & team memory with verified citations and real-time neural grounding (OpenAI Hackathon)</sub> | [**Live App**](https://carb-rebel-met-topics.trycloudflare.com) | [**Code**](https://github.com/mohammadali-2000/ghostworker-ai) | `Next.js 16` `OpenAI GPT-4o` `Whisper` `Exa AI` `TypeScript` |
+| **02** | **3D Interactive Portfolio**<br><sub>Interactive retro 3D WebGL room and virtual desktop environment with Harry Potter broom animation and floating candles</sub> | [**Live Demo**](https://syedmohammadali-portfolio.pages.dev/) | [**Code**](https://github.com/mohammadali-2000/portfolio-website) | `Three.js` `TypeScript` `WebGL` `Cloudflare Pages` |
+| **03** | **Aegis MCP Registry**<br><sub>Dynamic Model Context Protocol (MCP) server registry and execution interface for autonomous AI agents</sub> | [**Live App**](https://aegis-mcp-registry.vercel.app/) | [**Code**](https://github.com/mohammadali-2000/aegis-mcp-registry) | `TypeScript` `MCP` `Next.js` `Tailwind CSS` |
+| **04** | **Enterprise AI Knowledge Hub**<br><sub>Production RAG pipeline and automated vector search context retrieval engine</sub> | [**Docs**](https://github.com/mohammadali-2000/Enterprise-AI-Knowledge-Hub#readme) | [**Code**](https://github.com/mohammadali-2000/Enterprise-AI-Knowledge-Hub) | `Spring Boot` `Java` `LangChain` `Redis` |
+| **05** | **ZeroTrust Health**<br><sub>Encrypted medical AI inference platform built with Fully Homomorphic Encryption (FHE)</sub> | [**Docs**](https://github.com/mohammadali-2000/ZeroTrust-Health#readme) | [**Code**](https://github.com/mohammadali-2000/ZeroTrust-Health) | `Python` `TenSEAL` `Streamlit` `FHE` |
+| **06** | **Multi-Agent Medical Assistant**<br><sub>Autonomous agent network coordinating clinical tasks and diagnostic workflows</sub> | [**Docs**](https://github.com/mohammadali-2000/multi-agent-medical-assistant-masumi#readme) | [**Code**](https://github.com/mohammadali-2000/multi-agent-medical-assistant-masumi) | `Python` `Masumi Agent Network` |
+| **07** | **AI Travel Planner**<br><sub>Automated travel itinerary generator and scheduling system</sub> | [**Docs**](https://github.com/mohammadali-2000/Ai_travel#readme) | [**Code**](https://github.com/mohammadali-2000/Ai_travel) | `Next.js` `TypeScript` `AI SDK` |
 
 <br/>
 
